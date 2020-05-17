@@ -8,6 +8,6 @@ const app = express();
  res.sendFile(path.join(__dirname, '/dist/index.html'));
  });
  
- app.listen(process.env.PORT || 8000, () =>{
+ app.listen(process.env.PORT || 8080, () =>{
            console.log('Server ecoute sur le port %s' , process.env.PORT || 8080)
- })
+ });
