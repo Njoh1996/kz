@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "^8.2.9",
     "@angular/router": "^8.2.9",
     "core-js": "^2.6.9",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ng-snotify": "^4.3.1",
     "ngx-spinner": "^6.1.2",
     "rxjs": "^6.5.3",
